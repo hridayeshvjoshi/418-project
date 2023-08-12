@@ -1,4 +1,6 @@
-# Parallelizing Natural Selection Simulation  -- Hridayesh Joshi (hvj), William Giraldo (wgiraldo)
+# Parallelizing Natural Selection Simulation  
+
+## Authors: Hridayesh Joshi (hvj), William Giraldo (wgiraldo)
 
 ![Natural Selection Simulation](https://github.com/will-giraldo/418-project/blob/main/writeup/simgif.gif)
 
